@@ -1,4 +1,4 @@
-<project defult="compile">
+<project default="compile">
 <target name="compile">
   <property name="test.java.dir" location="./src/test"/>
          <property name="result.dir" location="./target"/>
